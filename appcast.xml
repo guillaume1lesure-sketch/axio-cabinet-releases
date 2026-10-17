@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:axio="https://cabinet.axio.care/xml">
+  <channel>
+    <title>AXiO Cabinet</title>
+    <link>https://cabinet.axio.care/appcast.xml</link>
+    <item>
+      <title>AXiO Cabinet 0.2.2</title>
+      <pubDate>Sat, 17 Oct 2026 22:32:04 +0200</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://cabinet.axio.care/nouveautes</sparkle:releaseNotesLink>
+      <description><![CDATA[Première version d'AXiO Cabinet, compatible macOS 15 (Sequoia) et plus récent, Mac Intel ou puce Apple.]]></description>
+      <axio:sha256>12cd85539ecf8a79ff67e258d81c3f068b7f2c6e506026c9f03b5d7e16fce666</axio:sha256>
+      <enclosure url="https://github.com/guillaume1lesure-sketch/axio-cabinet-releases/releases/download/v0.2.2/AXiO-Cabinet-0.2.2.dmg" length="12623974" type="application/octet-stream" sparkle:edSignature="+s1xbASukL0eatXL/N0vhMabaurjAPF3F+SXxGu7P/w3tZPtJHwnWuxvWRs+l53Q3tN2hf54QA5iI2rXSOY8CQ=="/>
+    </item>
+  </channel>
+</rss>
