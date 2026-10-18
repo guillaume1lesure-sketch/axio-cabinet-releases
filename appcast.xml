@@ -4,6 +4,17 @@
     <title>AXiO Cabinet</title>
     <link>https://cabinet.axio.care/appcast.xml</link>
     <item>
+      <title>AXiO Cabinet 0.2.4</title>
+      <pubDate>Sun, 18 Oct 2026 17:44:01 +0200</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://cabinet.axio.care/nouveautes</sparkle:releaseNotesLink>
+      <description><![CDATA[<h2>Offre de lancement : 3 mois d'essai</h2><ul><li>Tout compte créé jusqu'au 31 décembre 2026 profite de 3 mois d'essai gratuit au lieu d'un, sans carte bancaire.</li></ul>]]></description>
+      <axio:sha256>c8ca6dcd1bda7208694ec8c90aaa970e927a565d8d226b76593f4222ef05a0a7</axio:sha256>
+      <enclosure url="https://github.com/guillaume1lesure-sketch/axio-cabinet-releases/releases/download/v0.2.4/AXiO-Cabinet-0.2.4.dmg" length="12643539" type="application/octet-stream" sparkle:edSignature="5P8T6QL0OY/sbQRmaqJk36npz1v+jskOb/hIwbfHPHmYxg/mKUyXMbUn6hcOaooB14/4OL8hX3x54uhLs+JpCw=="/>
+    </item>
+    <item>
       <title>AXiO Cabinet 0.2.3</title>
       <pubDate>Sun, 18 Oct 2026 14:59:17 +0200</pubDate>
       <sparkle:version>5</sparkle:version>
