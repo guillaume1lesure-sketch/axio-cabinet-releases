@@ -4,6 +4,17 @@
     <title>AXiO Cabinet</title>
     <link>https://cabinet.axio.care/appcast.xml</link>
     <item>
+      <title>AXiO Cabinet 0.2.5</title>
+      <pubDate>Fri, 23 Oct 2026 23:59:32 +0200</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://cabinet.axio.care/nouveautes</sparkle:releaseNotesLink>
+      <description><![CDATA[<h2>Vos dossiers se rouvrent après une mise à jour</h2><ul><li>Après une mise à jour, un clic sur « Rouvrir avec le mot de passe de ce Mac » rend sa clé à AXiO Cabinet : plus besoin du code de secours.</li></ul>]]></description>
+      <axio:sha256>6224223c12a5e8eebbef0dafa430ef1c33982340d276fb98437f220daf2f278c</axio:sha256>
+      <enclosure url="https://github.com/guillaume1lesure-sketch/axio-cabinet-releases/releases/download/v0.2.5/AXiO-Cabinet-0.2.5.dmg" length="12673488" type="application/octet-stream" sparkle:edSignature="ROyJWKiXjTJp86XrCgnvX8cl+pFtcTKKGgp4Hj/WyBUXyUQtUiwDa4XNS1OcRKqOm7guibklFPB8JvlJBJ8SCw=="/>
+    </item>
+    <item>
       <title>AXiO Cabinet 0.2.4</title>
       <pubDate>Sun, 18 Oct 2026 17:44:01 +0200</pubDate>
       <sparkle:version>6</sparkle:version>
