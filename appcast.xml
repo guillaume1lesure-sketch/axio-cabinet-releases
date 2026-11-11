@@ -4,6 +4,17 @@
     <title>AXiO Cabinet</title>
     <link>https://cabinet.axio.care/appcast.xml</link>
     <item>
+      <title>AXiO Cabinet 0.3.0</title>
+      <pubDate>Thu, 12 Nov 2026 00:29:31 +0100</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://cabinet.axio.care/nouveautes</sparkle:releaseNotesLink>
+      <description><![CDATA[<h2>Vos anciens dossiers et vos factures, comme vous les tenez</h2><ul><li>Importez vos dossiers Word et PDF, même scannés : nom, coordonnées, date de naissance et motif sont lus pour vous, à vérifier avant d'enregistrer.</li><li>Factures : gardez la numérotation de votre ancien logiciel (après 2026-139 vient 2026-140).</li><li>Encaissements : un paiement se corrige en un clic, avec son motif. Il reste dans l'historique et sort des totaux, et une facture annulée par un avoir sort aussi des encaissements.</li><li>Séance : le texte ne saute plus pendant la frappe.</li><li>AXiO Cabinet est signé et vérifié par Apple : il s'ouvre sans aucun avertissement.</li></ul>]]></description>
+      <axio:sha256>2c2015069d6bf58977f056b3419d2694b8f81b89823ce3019fb49e72cb787707</axio:sha256>
+      <enclosure url="https://github.com/guillaume1lesure-sketch/axio-cabinet-releases/releases/download/v0.3.0/AXiO-Cabinet-0.3.0.dmg" length="13206160" type="application/octet-stream" sparkle:edSignature="9zgGzatkDcub3oPK5zf1H4XzCVOS/B53OSX0GW1eVvrcudHnTLe8x5T4tb6AgHARAyphmcrlvheeAlMy9wmDAg=="/>
+    </item>
+    <item>
       <title>AXiO Cabinet 0.2.5</title>
       <pubDate>Fri, 23 Oct 2026 23:59:32 +0200</pubDate>
       <sparkle:version>7</sparkle:version>
