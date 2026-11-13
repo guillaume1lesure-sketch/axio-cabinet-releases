@@ -4,6 +4,17 @@
     <title>AXiO Cabinet</title>
     <link>https://cabinet.axio.care/appcast.xml</link>
     <item>
+      <title>AXiO Cabinet 0.3.1</title>
+      <pubDate>Fri, 13 Nov 2026 17:27:38 +0100</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://cabinet.axio.care/nouveautes</sparkle:releaseNotesLink>
+      <description><![CDATA[<h2>Nouvelle icône : la mascotte AXiO</h2><ul><li>AXiO Cabinet prend l'icône de notre mascotte, un A bleu tout en fourrure.</li><li>Dans la barre des menus, le logo devient un A, à côté de l'heure de votre prochain rendez-vous.</li><li>L'extension de synchronisation de l'agenda prend la même icône.</li></ul>]]></description>
+      <axio:sha256>410d3718f7b0589722ef8041813aba0ef6c192610dd29af6f10b8b7466f217c8</axio:sha256>
+      <enclosure url="https://github.com/guillaume1lesure-sketch/axio-cabinet-releases/releases/download/v0.3.1/AXiO-Cabinet-0.3.1.dmg" length="16788890" type="application/octet-stream" sparkle:edSignature="MjgtvnFUeB/BiqFx3jPYsPwTAf0ux4qxkUspS0t+u39+62zH52noa+tJ7G4VBzazlQzz/59SYk1hjofFdpc9Cw=="/>
+    </item>
+    <item>
       <title>AXiO Cabinet 0.3.0</title>
       <pubDate>Thu, 12 Nov 2026 00:29:31 +0100</pubDate>
       <sparkle:version>8</sparkle:version>
